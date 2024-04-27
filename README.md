@@ -45,7 +45,7 @@
   <b>Github Trophy</b>
 </summary>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4))
+![trophy](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4)
 
 </details>
 
