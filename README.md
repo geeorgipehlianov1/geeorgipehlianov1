@@ -2,7 +2,6 @@
 
 #### Software Engineer with experience in Front-end and Back-end Technologies.
 
-
 <details>
 <summary>
   <b>Personal Information</b>
@@ -46,12 +45,13 @@
   <b>Github Trophy</b>
 </summary>
 
-![trophy]([https://github-profile-trophy.vercel.app/?username=kraikov&theme=onedark&column=8](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4))
+![trophy](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4))
 
 </details>
-<!--
-**geeorgipehlianov1/geeorgipehlianov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=geeorgipehlianov1&show_icons=true&theme=blue-green&hide=stars&hide_title=true&line_height=26"/>
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
