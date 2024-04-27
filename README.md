@@ -47,6 +47,8 @@
 </summary>
 
 ![trophy]([https://github-profile-trophy.vercel.app/?username=kraikov&theme=onedark&column=8](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4))
+
+</details>
 <!--
 **geeorgipehlianov1/geeorgipehlianov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
