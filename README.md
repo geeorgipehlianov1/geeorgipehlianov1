@@ -1,7 +1,52 @@
-### Hi there, I am Georgi Pehlivanov 👋
+### Hi there, Georgi Pehlivanov here 👋
 
 #### Software Engineer with experience in Front-end and Back-end Technologies.
 
+
+<details>
+<summary>
+  <b>Personal Information</b>
+</summary><br>
+  
+**Name:** Georgi Pehlivanov
+
+**Location:** Sofia, Bulgaria
+
+**Languages:**
+
+- Bulgarian (Native)
+
+- English (Intermediate)
+
+</details>
+
+<details>
+<summary>
+  <b>Knowledge</b>
+</summary>
+
+- Front-end Development
+- Back-end Development
+- 
+</details>
+
+<details>
+<summary>
+  <b>Technologies</b>
+</summary>
+  
+- **Advanced:** React, NextJS, JavaScript/Typescript
+
+- **Intermediate:** Express, NestJs, NodeJS
+
+</details>
+
+<details>
+<summary>
+  <b>Github Trophy</b>
+</summary>
+
+![trophy]([https://github-profile-trophy.vercel.app/?username=kraikov&theme=onedark&column=8](https://github-profile-trophy.vercel.app/?username=geeorgipehlianov1&theme=onedark&column=4))
 <!--
 **geeorgipehlianov1/geeorgipehlianov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
