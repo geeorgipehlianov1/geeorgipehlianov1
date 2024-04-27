@@ -1,6 +1,6 @@
 ### Hi there, Georgi Pehlivanov here 👋
 
-#### Software Engineer with experience in Front-end and Back-end Technologies.
+#### Software Engineer with experience in Front-end and Back-end Development.
 
 <details>
 <summary>
