@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Georgi Pehlivanov 👋
+
+#### Software Engineer with experience in Front-end and Back-end Technologies.
 
 <!--
 **geeorgipehlianov1/geeorgipehlianov1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
